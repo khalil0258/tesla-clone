@@ -1,3 +1,14 @@
+ 
+ 
+ This is simple tesla clone that i made with react js , styled components , Mui and React Context .
+ 
+
+![Uploading tesla2.png…]()<img width="533" alt="tesla" src="https://user-images.githubusercontent.com/65579391/163305402-17908113-a776-4533-9df6-8d7276ab6ca9.png">
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
